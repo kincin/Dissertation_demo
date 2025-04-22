@@ -10,7 +10,7 @@ git clone https://github.com/kincin/Dissertation_demo.git
 
 **Step 2.** Prepare the necessary requirement for this project.
  ```
-pip install 
+pip install -r requirements.txt
  ```
 
 **Step 3.** Start this demo.
